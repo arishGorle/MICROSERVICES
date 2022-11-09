@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MICROSERVICES.iml" filepath="$PROJECT_DIR$/.idea/MICROSERVICES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POLICIES/POLICIES/POLICIES.iml" filepath="$PROJECT_DIR$/POLICIES/POLICIES/POLICIES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROFILES/PROFILES/PROFILES.iml" filepath="$PROJECT_DIR$/PROFILES/PROFILES/PROFILES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SUMMARY/SUMMARY/SUMMARY.iml" filepath="$PROJECT_DIR$/SUMMARY/SUMMARY/SUMMARY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VEHICLES/VEHICLES/VEHICLES.iml" filepath="$PROJECT_DIR$/VEHICLES/VEHICLES/VEHICLES.iml" />
+    </modules>
+  </component>
+</project>
